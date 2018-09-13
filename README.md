@@ -1,4 +1,4 @@
-# RapidSpike RCA Library
+# RapidSpike RCA Installer
 
 This repository includes example scripts for various uses of RCA monitors.
 
