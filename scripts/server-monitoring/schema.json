@@ -1,0 +1,29 @@
+{
+    "keys":[
+        {
+            "label":"Load Avg. 1",
+            "key":"loadavg1",
+            "metric":"float"
+        },
+        {
+            "label":"Load Avg. 5",
+            "key":"loadavg5",
+            "metric":"float"
+        },
+        {
+            "label":"Load Avg. 15",
+            "key":"loadavg15",
+            "metric":"float"
+        },
+        {
+            "label":"CPU Usage",
+            "key":"cpu",
+            "metric":"percentage"
+        },
+        {
+            "label":"Memory Usage",
+            "key":"memory",
+            "metric":"percentage"
+        }
+    ]
+}

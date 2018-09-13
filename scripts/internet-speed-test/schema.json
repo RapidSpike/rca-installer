@@ -1,0 +1,19 @@
+{
+    "keys":[
+        {
+            "label":"Ping",
+            "key":"ping",
+            "metric":"milliseconds"
+        },
+        {
+            "label":"Download Speed",
+            "key":"download",
+            "metric":"MB/s"
+        },
+        {
+            "label":"Upload Speed",
+            "key":"upload",
+            "metric":"MB/s"
+        }
+    ]
+}
